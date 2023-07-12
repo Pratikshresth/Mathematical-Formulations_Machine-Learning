@@ -1,5 +1,5 @@
 
-# Mathematical Formulations of Algorithms
+# Mathematical Formulations of Machine Learning Algorithms
 This repository contains Jupyter Notebook files that explain the mathematical formulations and implementation of various algorithms from scratch. The notebooks provide step-by-step explanations and code examples for algorithms such as Linear Regression, Multiple Linear Regression, Gradient Descent, and more.
 
 Welcome to the Machine Learning Algorithms from Scratch repository! This repository contains Python implementations and detailed mathematical formulations of popular machine learning algorithms. Whether you're a beginner seeking to understand the inner workings of these algorithms or an experienced practitioner looking to refresh your knowledge, this repository is a valuable resource.
@@ -60,3 +60,7 @@ The following dependencies are required to run the Jupyter Notebook files:
 - NumPy
 - Matplotlib
 - Pandas (if applicable)
+
+***Please note that this repository will be periodically updated to incorporate new algorithms, enhancements, and improvements.***
+
+***If you have any suggestions or feedback for new algorithms or improvements to the existing ones, feel free to open an issue or reach out to me. I appreciate your contributions and ideas for making this repository even better.***
